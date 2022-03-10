@@ -120,3 +120,20 @@ Ação preventiva: contratação de desenvolvedores/fábrica de software para a 
 ## 27) Falta de controle dos riscos/Ignorar o risco presente no projeto
 
 ## 28) etc....
+
+## Thanks and how to contribute
+
+Thanks for viewing this repo! Contributions are more than welcome.
+
+Feel free to contact me for more information.
+
+<!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
+<hr>
+<p align='center'>
+  <a href="#"><img
+      src="https://img.shields.io/badge/author-%C2%A9%20Siomara%20Cintia%20Pantarotto.%20All%20rights%20reserved.-008080?style=social"></a>&nbsp;&nbsp;
+  <a href="https://siomara.com.br/"><img
+      src="https://img.shields.io/badge/visit-My Online Resume-008080?style=social"></a>&nbsp;&nbsp;
+  <a href="https://siomara.com.br/ResumePANTAROTTO.pdf"><img
+      src="https://img.shields.io/badge/download-My PDF Resume-008080?style=social"></a>
+</p>
