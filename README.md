@@ -1,5 +1,7 @@
 # Risk management applied to software development
 
+UNDER CONSTRUCTION!!!
+
 This repo outlines some aspects of risk management in software development projects.
 
 ## Objective
