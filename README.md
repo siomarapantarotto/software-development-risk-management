@@ -28,43 +28,43 @@ Incorporate risk management in the software development process (products and se
 
 ## RISCOS, DIRECIONADORES E AÇÕES:
 
-## 1) REQUISITOS DO PROJETO MAL ENTENDIDOS
+## 1) MISUNDERSTOOD PROJECT REQUIREMENTS
 
-## 2) PERDA DE DADOS DO DOCUMENTO DE REQUISITOS
+## 2) LOSS OF REQUIREMENTS DOCUMENT DATA
 
-## 3) Wrong development of requirements
+## 3) WRONG DEVELOPMENT OF REQUIREMENTS
 
 ## 4) CHANGE OF REQUIREMENTS
 
-## 5) GROWTH OF UNFORESEEN REQUIREMENTSCRESCIMENTO DE REQUISITOS NÃO PREVISTOS
+## 5) GROWTH OF UNFORESEEN REQUIREMENTS
 
-## 6) Unforeseen requirements performed by the development team
+## 6) UNFORESEEN REQUIREMENTS PERFORMED BY THE DEVELOPMENT TEAM
 
-## 7) Schedule out of reality
+## 7) SCHEDULE OUT OF REALITY
 
-## 8) Introduction of new technologies
+## 8) INTRODUCTION OF NEW TECHNOLOGIES
 
-## 9) Lack of effective methodology for the management of the projects
+## 9) LACK OF EFFECTIVE METHODOLOGY FOR THE MANAGEMENT OF THE PROJECTS
 
-## 10) Inadequate tools for the development
+## 10) INADEQUATE TOOLS FOR THE DEVELOPMENT
 
-## 11) Customer dissatisfaction with the product developed/in development 
+## 11) CUSTOMER DISSATISFACTION WITH THE PRODUCT DEVELOPED OR BEING DEVELOPED 
 
-## 12) Lack of cooperation/commitment of the product owner/users
+## 12) LACK OF COOPERATION/COMMITMENT OF THE CLIENT
 
-## 13) Lack of motivation of the development/training team
+## 13) LACK OF MOTIVATION OF THE DEVELOPMENT TEAM
 
-## 14) Insufficient personnel
+## 14) INSUFFICIENT PERSONNEL
 
-## 15) Mudança de membros da equipe
+## 15) RELOCATION OF DEVELOPERS' TEAM MEMBERS
 
 ## 16) Falta de definição da função dos membros da equipe
 
 ## 17) Afastamento por doença de membros da equipe
 
-## 18) Falta de habilidade na gerência do projeto
+## 18) LACK OF PROJECT MANAGEMENT SKILLS
 
-## 19) Atrito entre os desenvolvedores/gerentes 
+## 19) ADVERSITY AMONG MEMBERS OF THE DEVELOPMENT TEAM
 
 ## 20) Custo mal estimado
 
