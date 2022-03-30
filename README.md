@@ -35,8 +35,8 @@ Incorporate risk management in the software development process, evaluate the re
 - Risk identification
 
 - Risk analysis
--   Probability:
-        Very low:   Unlikely. In exceptional situations, the event may even occur, but nothing in the circumstances indicates this possibility.
+   - Probability:
+      - Very low:   Unlikely. In exceptional situations, the event may even occur, but nothing in the circumstances indicates this possibility.
         Low:        Rare. In unexpected or chance situations, the event can occur, but circumstances are not very indicative of the possibility.
         Medium:     Possible. Event could occur in some way because circumstances moderately indicate this possibility.
         High:       Probable. In an even expected way, the event can occur because circumstances strongly indicate this possibility. 8
