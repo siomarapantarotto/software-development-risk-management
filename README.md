@@ -86,7 +86,7 @@ Identification, approach, probability of occurrence, impact, corrective and prev
 
 ## etc....
 
-## 100) Neglect risk control
+## n) Neglect risk control
 
 ## Thanks and how to contribute
 
