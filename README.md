@@ -1,5 +1,5 @@
 
-# Risk management applied to software development
+# Risk Management Applied to Software Development
 
 <p align='center'>
   <img
@@ -14,17 +14,17 @@ Reduce risks that are present in software development projects by identifying, a
 
 ## Expected Results
 
-- improvement of the products/services developed
+- improvement of the products and services developed
+
+- increased productivity of the product development process
 
 - deliveries on schedule
 
-- increased productivity of the product/service development process
+- etc...
 
-- etc
+## Main Activity
 
-## Main activity
-
-Incorporate risk management in the software development process (products and services), evaluate the results and propose improvements to the plan.
+Incorporate risk management in the software development process, evaluate the results and propose improvements to the plan.
 
 ## Risks, drivers and actions:
 
