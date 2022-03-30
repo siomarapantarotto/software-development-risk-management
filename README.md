@@ -80,9 +80,9 @@ Incorporate risk management in the software development process (products and se
 
 ## 26) Software version control/conflicts
 
-## 27) Neglect risk control
+## etc....
 
-## 28) etc....
+## 100) Neglect risk control
 
 ## Thanks and how to contribute
 
