@@ -30,10 +30,16 @@ Incorporate risk management in the software development process, evaluate the re
 
 - Communication and consultation
 
-- Establishing the context
+    // TODO: defines ways of communication and consultation
 
+- Establishing the context 
+
+    // TODO: define contexts
+    
 - Risk identification
 
+    // TODO: describe risks
+    
 - Risk analysis
    - Probability:
       - Very low:   Unlikely. The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
@@ -42,14 +48,20 @@ Incorporate risk management in the software development process, evaluate the re
       - High:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
       - Very High:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
 
-    TODO ...to be continued
+    // TODO: impact etc
 
 - Risk assessment
 
+    // TODO: defines ways of communication and consultation
+    
 - Immediate/preventive actions 
 
+    // TODO: ...
+    
 - Monitoring and critical analysis
 
+    // TODO: ...
+    
 ## Risks
 
 ## 1) Misunderstood project requirements
