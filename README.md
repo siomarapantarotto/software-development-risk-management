@@ -26,69 +26,69 @@ Reduce risks that are present in software development projects by identifying, a
 
 Incorporate risk management in the software development process (products and services), evaluate the results and propose improvements to the plan.
 
-## RISCOS, DIRECIONADORES E AÇÕES:
+## Risks, drivers and actions:
 
-## 1) MISUNDERSTOOD PROJECT REQUIREMENTS
+## 1) Misunderstood project requirements
 
-## 2) LOSS OF REQUIREMENTS DOCUMENT DATA
+## 2) Loss of requirements document data
 
-## 3) WRONG DEVELOPMENT OF REQUIREMENTS
+## 3) Wrong development of requirements
 
-## 4) CHANGE OF REQUIREMENTS
+## 4) Change of requirements
 
-## 5) GROWTH OF UNFORESEEN REQUIREMENTS
+## 5) Growth of unforeseen requirements
 
-## 6) UNFORESEEN REQUIREMENTS PERFORMED BY THE DEVELOPMENT TEAM
+## 6) Unforeseen requirements performed by the development team
 
-## 7) SCHEDULE OUT OF REALITY
+## 7) Schedule out of reality
 
-## 8) INTRODUCTION OF NEW TECHNOLOGIES
+## 8) Introduction of new technologies
 
-## 9) LACK OF EFFECTIVE METHODOLOGY FOR THE MANAGEMENT OF THE PROJECTS
+## 9) Lack of effective methodology for the management of the projects
 
-## 10) INADEQUATE TOOLS FOR THE DEVELOPMENT
+## 10) Inadequate tools for the development
 
-## 11) CUSTOMER DISSATISFACTION WITH THE PRODUCT DEVELOPED OR BEING DEVELOPED 
+## 11) Customer dissatisfaction with the product developed or being developed 
 
-## 12) LACK OF COOPERATION/COMMITMENT OF THE CLIENT
+## 12) Lack of cooperation/commitment of the client
 
-## 13) LACK OF MOTIVATION OF THE DEVELOPMENT TEAM
+## 13) Lack of motivation of the development team
 
-## 14) INSUFFICIENT PERSONNEL
+## 14) Insufficient personnel
 
-## 15) RELOCATION OF DEVELOPERS' TEAM MEMBERS
+## 15) Relocation of developers' team members
 
-## 16) Falta de definição da função dos membros da equipe
+## 16) Lack of definition of team members' roles
 
-## 17) Afastamento por doença de membros da equipe
+## 17) Team member sick leave
 
-## 18) LACK OF PROJECT MANAGEMENT SKILLS
+## 18) Lack of project management skills
 
-## 19) ADVERSITY AMONG MEMBERS OF THE DEVELOPMENT TEAM
+## 19) Adversity among members of the development team
 
-## 20) Custo mal estimado
+## 20) Underestimated cost
 
-## 21) Componentes do projeto desenvolvidos externamente (Fábrica software)
+## 21) Project components developed externally (software factory)
 
-## 22) Falta/quebra de equipamento/recursos
+## 22) Lack/breakdown of equipment/resources
 
-## 23) Mudança do ambiente do desenvolvimento do projeto
+## 23) Change of project development environment
 
-## 24) Falta de realização de testes durante o desenvolvimento do projeto (erros de digitação)
+## 24) Lack of testing during project development (typing errors)
 
-## 25) Desenvolvimento com baixa qualidade
+## 25) Development with low quality
 
-## 26) Controle/conflitos de versões dos produtos
+## 26) Software version control/conflicts
 
-## 27) Falta de controle dos riscos/Ignorar o risco presente no projeto
+## 27) Neglect risk control
 
 ## 28) etc....
 
 ## Thanks and how to contribute
 
-Thanks for viewing this repo! Contributions are more than welcome.
+Thanks for viewing this repo!
 
-Feel free to contact me for more information.
+You are welcome to suggest other risks and also to follow-up on the evolution of this work if you wish.
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
 <hr>
