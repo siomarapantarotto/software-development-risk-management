@@ -28,6 +28,10 @@ Incorporate risk management in the software development process, evaluate the re
 
 ## Risks, drivers and actions:
 
+Identification, approach, probability of occurrence, impact, corrective and preventive actions
+
+## Risks
+
 ## 1) Misunderstood project requirements
 
 ## 2) Loss of requirements document data
