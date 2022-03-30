@@ -30,7 +30,7 @@ Incorporate risk management in the software development process, evaluate the re
 
 - Communication and consultation
 
-    // TODO: defines ways of communication and consultation
+    // TODO: define ways of communication and consultation
 
 - Establishing the context 
 
@@ -66,59 +66,113 @@ Incorporate risk management in the software development process, evaluate the re
 
 ## 1) Misunderstood project requirements
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 2) Loss of requirements document data
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 3) Wrong development of requirements
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 4) Change of requirements
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 5) Growth of unforeseen requirements
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 6) Unforeseen requirements performed by the development team
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 7) Schedule out of reality
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 8) Introduction of new technologies
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 9) Lack of effective methodology for the management of the projects
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 10) Inadequate tools for the development
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 11) Customer dissatisfaction with the product developed or being developed 
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 12) Lack of cooperation/commitment of the client
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 13) Lack of motivation of the development team
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 14) Insufficient personnel
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 15) Relocation of developers' team members
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 16) Lack of definition of team members' roles
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 17) Team member sick leave
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 18) Lack of project management skills
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 19) Adversity among members of the development team
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 20) Underestimated cost
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 21) Project components developed externally (software factory)
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 22) Lack/breakdown of equipment/resources
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 23) Change of project development environment
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 24) Lack of testing during project development (typing errors)
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## 25) Development with low quality
 
+Probability: Very low / Low / Medium / High / Very High
+
 ## 26) Software version control/conflicts
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## etc....
 
 ## n) Neglect risk control
+
+Probability: Very low / Low / Medium / High / Very High
 
 ## Thanks and how to contribute
 
