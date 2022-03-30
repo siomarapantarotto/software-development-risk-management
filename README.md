@@ -42,6 +42,8 @@ Incorporate risk management in the software development process, evaluate the re
       - High:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
       - Very High:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
 
+    TODO ...to be continued
+
 - Risk assessment
 
 - Immediate/preventive actions 
