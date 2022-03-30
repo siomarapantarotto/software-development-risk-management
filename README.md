@@ -26,9 +26,21 @@ Reduce risks that are present in software development projects by identifying, a
 
 Incorporate risk management in the software development process, evaluate the results and propose improvements to the plan.
 
-## Risks, drivers and actions:
+## Risk Management Process
 
-Identification, approach, probability of occurrence, impact, corrective and preventive actions
+- Communication and consultation
+
+- Establishing the context
+
+- Risk identification
+
+- Risk analysis
+
+- Risk assessment
+
+- Immediate/preventive actions 
+
+- Monitoring and critical analysis
 
 ## Risks
 
