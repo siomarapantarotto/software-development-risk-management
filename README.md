@@ -94,6 +94,8 @@ Thanks for viewing this repo!
 
 You are welcome to suggest other risks and also to follow-up on the evolution of this work if you wish.
 
+Please share the link with people who might be interested and willing to contribute to this research on the subject.
+
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
 <hr>
 <p align='center'>
