@@ -74,6 +74,7 @@ Translated with www.DeepL.com/Translator (free version)
 ## 1) Misunderstood project requirements
 
 Probability:  very low / low / medium / high / very high
+
 Impact:       very low / low / medium / high / very high
 
 ## 2) Loss of requirements document data
