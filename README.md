@@ -48,7 +48,14 @@ Incorporate risk management in the software development process, evaluate the re
       - High:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
       - Very High:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
 
-    // TODO: impact etc
+  - Impact:
+      - Very low: minimally compromises the achievement of the objective; for practical purposes, does not alter the achievement of the objective/result.
+      - Low: compromises the achievement of the objective to some extent, but does not prevent the achievement of most of the objective/result.
+      - Medium: reasonably compromises the achievement of the goal/outcome.
+      - High: Compromises most of the achievement of the objective/result.
+      - Very high: totally or almost totally compromises the achievement of the of the objective/result.
+
+Translated with www.DeepL.com/Translator (free version)
 
 - Risk assessment
 
@@ -66,7 +73,8 @@ Incorporate risk management in the software development process, evaluate the re
 
 ## 1) Misunderstood project requirements
 
-Probability: Very low / Low / Medium / High / Very High
+Probability:  very low / low / medium / high / very high
+Impact:       very low / low / medium / high / very high
 
 ## 2) Loss of requirements document data
 
