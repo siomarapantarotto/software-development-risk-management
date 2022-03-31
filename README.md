@@ -14,11 +14,11 @@ Reduce risks that are present in software development projects by identifying, a
 
 ## Expected Results
 
-- improvement of the products and services developed
+- Improvement of the products and services developed
 
-- increased productivity of the product development process
+- Increased productivity of the product development process
 
-- deliveries on schedule
+- Deliveries on schedule
 
 - etc...
 
@@ -54,9 +54,9 @@ Incorporate risk management in the software development process, evaluate the re
 
     // TODO: defines ways of communication and consultation
     
-- Immediate/preventive actions 
-
-    // TODO: ...
+- Risk treatment
+      - Immediate actions
+      - Preventive actions 
     
 - Monitoring and critical analysis
 
