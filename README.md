@@ -78,39 +78,48 @@ Translated with www.DeepL.com/Translator (free version)
 
 ## 2) Loss of requirements document data
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 3) Wrong development of requirements
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 4) Change of requirements
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 5) Growth of unforeseen requirements
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 6) Unforeseen requirements performed by the development team
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 7) Schedule out of reality
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 8) Introduction of new technologies
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 9) Lack of effective methodology for the management of the projects
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 10) Inadequate tools for the development
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 11) Customer dissatisfaction with the product developed or being developed 
 
