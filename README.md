@@ -123,73 +123,90 @@ Translated with www.DeepL.com/Translator (free version)
 
 ## 11) Customer dissatisfaction with the product developed or being developed 
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 12) Lack of cooperation/commitment of the client
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 13) Lack of motivation of the development team
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 14) Insufficient personnel
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 15) Relocation of developers' team members
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 16) Lack of definition of team members' roles
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 17) Team member sick leave
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 18) Lack of project management skills
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 19) Adversity among members of the development team
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 20) Underestimated cost
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 21) Project components developed externally (software factory)
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 22) Lack/breakdown of equipment/resources
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 23) Change of project development environment
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 24) Lack of testing during project development (typing errors)
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 25) Development with low quality
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## 26) Software version control/conflicts
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## etc //TODO: Enumerate other risks
 
 ## n) Neglect risk control
 
-Probability: Very low / Low / Medium / High / Very High
+  - **Probability**: very low / low / medium / high / very high
+  - **Impact**: very low / low / medium / high / very high
 
 ## Thanks and how to contribute
 
