@@ -5,8 +5,9 @@
   <img
     src="https://img.shields.io/badge/risk%20management%20applied%20to%20software%20development%20projects-Under%20Construction-999999?style=for-the-badge&logo=git&logoColor=white" />
   <img
-    src="https://user-images.githubusercontent.com/5893219/161393979-03f27757-97f6-49a7-87c1-21ecfc9ca336.jpg" />
+    src="https://user-images.githubusercontent.com/5893219/161395166-efaa0b54-2b97-4d72-a5bb-b23c8a497b71.jpg" />
 </p>
+
 This repo outlines some aspects of risk management in software development projects. Be welcome to copy, modify, and apply them in your own work or business, as well as share them with whomever you deem necessary. 
 
 ## Objective
