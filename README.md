@@ -1,7 +1,5 @@
 
-<p align='center'>   
-  # Risk Management Applied to Software Development
-</p>
+<h1 align="center">Risk Management Applied to Software Development</h1>
 
 <p align='center'>  
   <img
