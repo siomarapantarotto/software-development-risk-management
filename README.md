@@ -57,8 +57,6 @@ Incorporate risk management in the software development process, evaluate the re
       - High: Compromises most of the achievement of the objective/result.
       - Very high: totally or almost totally compromises the achievement of the of the objective/result.
 
-Translated with www.DeepL.com/Translator (free version)
-
 - Risk assessment
 
     // TODO: defines ways of communication and consultation
