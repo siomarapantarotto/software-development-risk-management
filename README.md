@@ -210,7 +210,7 @@ Translated with www.DeepL.com/Translator (free version)
   - **Probability**: very low / low / medium / high / very high
   - **Impact**: very low / low / medium / high / very high
 
-## Thanks and how to contribute
+## Thanks! You are welcome to contribute
 
 Thanks for viewing this repo!
 
