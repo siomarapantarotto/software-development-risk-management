@@ -44,18 +44,18 @@ Incorporate risk management in the software development process, evaluate the re
     
 - Risk analysis
    - Probability:
-      - Very low:   Unlikely. The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
-      - Low:        Rare. The event may occur unexpectedly or casually, as the circumstances indicate little of this possibility.
-      - Medium:     Possible. Event could occur in some way because circumstances moderately indicate this possibility.
-      - High:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
-      - Very High:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
+      - **Very low**:   Unlikely. The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
+      - **Low**:        Rare. The event may occur unexpectedly or casually, as the circumstances indicate little of this possibility.
+      - **Medium**:     Possible. Event could occur in some way because circumstances moderately indicate this possibility.
+      - **High**:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
+      - **Very High**:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
 
   - Impact:
-      - Very low: minimally compromises the achievement of the objective; for practical purposes, does not alter the achievement of the objective/result.
-      - Low: compromises the achievement of the objective to some extent, but does not prevent the achievement of most of the objective/result.
-      - Medium: reasonably compromises the achievement of the goal/outcome.
-      - High: Compromises most of the achievement of the objective/result.
-      - Very high: totally or almost totally compromises the achievement of the of the objective/result.
+      - **Very low**: minimally compromises the achievement of the objective; for practical purposes, does not alter the achievement of the objective/result.
+      - **Low**: compromises the achievement of the objective to some extent, but does not prevent the achievement of most of the objective/result.
+      - **Medium**: reasonably compromises the achievement of the goal/outcome.
+      - **High**: Compromises most of the achievement of the objective/result.
+      - **Very high**: totally or almost totally compromises the achievement of the of the objective/result.
 
 - Risk assessment
 
