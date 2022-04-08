@@ -78,38 +78,38 @@ Incorporate risk management in the software development process, evaluate the re
 
 ## 2) Loss of requirements document data
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 3) Wrong development of requirements
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 4) Change of requirements
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 5) Growth of unforeseen requirements
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 6) Unforeseen requirements performed by the development team
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 7) Schedule out of reality
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 8) Introduction of new technologies
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 9) Lack of effective methodology for the management of the projects
 
