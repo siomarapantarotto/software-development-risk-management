@@ -44,11 +44,11 @@ Incorporate risk management in the software development process, evaluate the re
     
 - Risk analysis
    - Probability:
-      - **Very low**:   Unlikely. The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
-      - **Low**:        Rare. The event may occur unexpectedly or casually, as the circumstances indicate little of this possibility.
-      - **Medium**:     Possible. Event could occur in some way because circumstances moderately indicate this possibility.
-      - **High**:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
-      - **Very High**:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
+      - **VERY LOW**:   Unlikely. The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
+      - **LOW**:        Rare. The event may occur unexpectedly or casually, as the circumstances indicate little of this possibility.
+      - **MEDIUM**:     Possible. Event could occur in some way because circumstances moderately indicate this possibility.
+      - **HIGH**:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
+      - **VERY HIGH**:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
 
   - Impact:
       - **Very low**: minimally compromises the achievement of the objective; for practical purposes, does not alter the achievement of the objective/result.
