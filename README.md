@@ -73,8 +73,8 @@ Incorporate risk management in the software development process, evaluate the re
 
 ## 1) Misunderstood project requirements
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 2) Loss of requirements document data
 
