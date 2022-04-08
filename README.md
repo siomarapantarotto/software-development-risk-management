@@ -113,100 +113,100 @@ Incorporate risk management in the software development process, evaluate the re
 
 ## 9) Lack of effective methodology for the management of the projects
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 10) Inadequate tools for the development
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 11) Customer dissatisfaction with the product developed or being developed 
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 12) Lack of cooperation/commitment of the client
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 13) Lack of motivation of the development team
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 14) Insufficient personnel
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 15) Relocation of developers' team members
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 16) Lack of definition of team members' roles
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 17) Team member sick leave
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 18) Lack of project management skills
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 19) Adversity among members of the development team
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 20) Underestimated cost
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 21) Project components developed externally (software factory)
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 22) Lack/breakdown of equipment/resources
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 23) Change of project development environment
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 24) Lack of testing during project development (typing errors)
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 25) Development with low quality
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## 26) Software version control/conflicts
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## etc //TODO: Enumerate other risks
 
 ## n) Neglect risk control
 
-  - **Probability**: very low / low / medium / high / very high
-  - **Impact**: very low / low / medium / high / very high
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Thanks! You are welcome to contribute
 
