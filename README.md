@@ -22,6 +22,8 @@ Operate in a preventive way, acting actively to reduce risks that are present in
 
 - Deliveries on schedule
 
+- Reduction of losses
+
 - etc...
 
 ## Main Activity
