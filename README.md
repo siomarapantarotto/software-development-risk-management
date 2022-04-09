@@ -8,11 +8,11 @@
     src="https://user-images.githubusercontent.com/5893219/161395166-efaa0b54-2b97-4d72-a5bb-b23c8a497b71.jpg" />
 </p>
 
-This repo outlines some aspects of risk management in software development projects. Be welcome to copy, modify, and apply them in your own work or business, as well as share them with whomever you consider necessary. 
+This repo outlines some aspects of risk governance in software development projects. Be welcome to copy, modify, and apply them in your own work or business, as well as share them with whomever you consider necessary. 
 
 ## Objective
 
-Reduce risks that are present in software development projects by identifying, analyzing, treating, and controlling them.
+Operate in a preventive way, acting actively to reduce risks that are present in software development projects by identifying, analyzing, treating, and controlling them.
 
 ## Expected Results
 
