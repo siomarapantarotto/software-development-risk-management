@@ -173,7 +173,7 @@ Incorporate risk management in the software development process, evaluate the re
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 21) Project components developed externally (software factory)
+## 21) Project components developed externally
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
@@ -188,7 +188,7 @@ Incorporate risk management in the software development process, evaluate the re
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 24) Lack of testing during project development (typing errors)
+## 24) Lack of testing during project development
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
