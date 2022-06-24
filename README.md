@@ -64,8 +64,8 @@ Incorporate risk management in the software development process, evaluate the re
     // TODO: defines ways of communication and consultation
     
 - Risk treatment
-      - Immediate actions
-      - Preventive actions 
+    - Immediate actions
+    - Preventive actions 
     
 - Monitoring and critical analysis
 
