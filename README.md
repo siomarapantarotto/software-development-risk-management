@@ -8,9 +8,22 @@
     src="https://user-images.githubusercontent.com/5893219/161395166-efaa0b54-2b97-4d72-a5bb-b23c8a497b71.jpg" />
 </p>
 
-This repo outlines some aspects of risk governance in software development projects. Be welcome to copy, modify, and apply them in your own work or business, as well as share them with whomever you consider necessary. 
+This repo outlines some aspects of risk governance in software development projects.
 
-## Objective
+Be welcome to copy, modify, and apply them in your own work or business, as well as share them with whomever you consider necessary. 
+
+## Introduction
+
+Risk control is vital to project management.
+
+A project can be defined as a work that seeks the creation of a product or the execution of a service.
+
+Whether it is a product or a service, all activities need to be planned, scheduled, and, when executed, need to be controlled.
+
+Incorporate risk management in the software development process, evaluate the results and propose improvements to the plan is an important factor for the success or failure of any project.
+
+
+## Risk Control Objectives
 
 Operate in a preventive way, acting actively to reduce risks that are present in software development projects by identifying, analyzing, treating, and controlling them.
 
@@ -25,10 +38,6 @@ Operate in a preventive way, acting actively to reduce risks that are present in
 - Reduction of losses
 
 - etc...
-
-## Main Activity
-
-Incorporate risk management in the software development process, evaluate the results and propose improvements to the plan.
 
 ## Risk Management Process
 
