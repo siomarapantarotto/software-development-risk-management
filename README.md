@@ -22,7 +22,6 @@ Whether it is a product or a service, all activities need to be planned, schedul
 
 Incorporate risk management in the software development process, evaluate the results and propose improvements to the plan is an important factor for the success or failure of any project.
 
-
 ## Risk Control Objectives
 
 Operate in a preventive way, acting actively to reduce risks that are present in software development projects by identifying, analyzing, treating, and controlling them.
