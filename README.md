@@ -40,40 +40,53 @@ Operate in a preventive way, acting actively to reduce risks that are present in
 
 ## Risk Management Process
 
-- Communication and consultation
+- **Communication and consultation**
 
     // TODO: define ways of communication and consultation
 
-- Establishing the context 
+- **Establishing the context** 
 
     // TODO: define contexts
     
-- Risk identification
+- **Risk identification**
 
     // TODO: describe risks
     
-- Risk analysis
-   - Probability:
+- **Risk analysis**
+  
+   - **Probability:**
+  
       - **VERY LOW**:   Unlikely. The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
       - **LOW**:        Rare. The event may occur unexpectedly or casually, as the circumstances indicate little of this possibility.
       - **MEDIUM**:     Possible. Event could occur in some way because circumstances moderately indicate this possibility.
       - **HIGH**:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
       - **VERY HIGH**:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
 
-  - Impact:
+  - **Impact:**
+  
       - **VERY LOW**: minimally compromises the achievement of the objective; for practical purposes, does not alter the achievement of the objective/result.
       - **LOW**: compromises the achievement of the objective to some extent, but does not prevent the achievement of most of the objective/result.
       - **MEDIUM**: reasonably compromises the achievement of the goal/outcome.
       - **HIGH**: Compromises most of the achievement of the objective/result.
       - **VERY HIGH**: totally or almost totally compromises the achievement of the of the objective/result.
 
-- Risk assessment
+- **Risk assessment**
 
     // TODO: defines ways of communication and consultation
     
-- Risk treatment
-    - Immediate actions
-    - Preventive actions 
+- **Risk treatment**
+  
+  The market presents countless tools and services for risk control and treatment, but the truth is that not all companies can afford them.
+
+  It is also true that many companies experiencing growth, with little or no profit, are unlikely to stop investing in their primary activities in order to invest in risk control.
+
+  It is the reality of each company that will define if risk control will be delegated to specialists or implemented by its own members through the development and execution of an action plan, which can be immediate or preventive.
+
+  These are actions already thought out, discussed, and assigned to the risk, even if the risk has never occurred. This is not an exhaustive list, because new actions may be suggested at any moment. Hence the importance of the constant revision of the risk management plan.    
+
+    - **Immediate actions:** These are actions that should be implemented immediately when the risk occurs. 
+  
+    - **Preventive actions:** These are actions that should be constantly implemented aiming at the prevention of risk occurrence.
     
 - Monitoring and critical analysis
 
