@@ -14,7 +14,7 @@ Be welcome to copy, modify, and apply them in your own work or business, as well
 
 ## Introduction
 
-Risk control is vital to project management.
+Risk control is vital to software development projects.
 
 A project can be defined as a work that seeks the creation of a product or the execution of a service.
 
@@ -28,13 +28,13 @@ Operate in a preventive way, acting actively to reduce risks that are present in
 
 ## Expected Results
 
-- Improvement of the products and services developed
+- Improvement of the products and services developed.
 
-- Increased productivity of the product development process
+- Increased productivity of the product development process.
 
-- Deliveries on schedule
+- Deliveries on schedule.
 
-- Reduction of losses
+- Reduction of losses.
 
 - etc...
 
@@ -95,139 +95,143 @@ Operate in a preventive way, acting actively to reduce risks that are present in
     
 ## Risks
 
-## 1) Misunderstood project requirements
+## Misunderstood project requirements
+
+This risk occurs when the product owner presents the product/service requirements and the development team members do not understand what he really wants. This risk is directly related to the experience level of the professional responsible for business design, feature analysis, requirements gathering, and so on.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 2) Loss of requirements document data
+## Loss of data or the requirements document
+
+This risk occurs when the project requirements document is lost or doesn't cover the necessary data for the project's development.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 3) Wrong development of requirements
+## Wrong development of requirements
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 4) Change of requirements
+## Change of requirements
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 5) Growth of unforeseen requirements
+## Growth of unforeseen requirements
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 6) Unforeseen requirements performed by the development team
+## Unforeseen requirements performed by the development team
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 7) Schedule out of reality
+## Schedule out of reality
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 8) Introduction of new technologies
+## Introduction of new technologies
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 9) Lack of effective methodology for the management of the projects
+## Lack of effective methodology for the management of the projects
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 10) Inadequate tools for the development
+## Inadequate tools for the development
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 11) Customer dissatisfaction with the product developed or being developed 
+## Customer dissatisfaction with the product developed or being developed 
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 12) Lack of cooperation/commitment of the client
+## Lack of cooperation/commitment of the client
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 13) Lack of motivation of the development team
+## Lack of motivation of the development team
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 14) Insufficient personnel
+## Insufficient personnel
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 15) Relocation of developers' team members
+## Relocation of developers' team members
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 16) Lack of definition of team members' roles
+## Lack of definition of team members' roles
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 17) Team member sick leave
+## Team member sick leave
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 18) Lack of project management skills
+## Lack of project management skills
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 19) Adversity among members of the development team
+## Adversity among members of the development team
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 20) Underestimated cost
+## Underestimated cost
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 21) Project components developed externally
+## Project components developed externally
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 22) Lack/breakdown of equipment/resources
+## Lack/breakdown of equipment/resources
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 23) Change of project development environment
+## Change of project development environment
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 24) Lack of testing during project development
+## Lack of testing during project development
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 25) Development with low quality
+## Development with low quality
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## 26) Software version control/conflicts
+## Software version control/conflicts
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## etc //TODO: Enumerate other risks
 
-## n) Neglect risk control
+## Neglect risk control
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
