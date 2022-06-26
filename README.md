@@ -93,7 +93,7 @@ Operate in a preventive way, acting actively to reduce risks that are present in
     The revision of the risk treatment plan is fundamental because even if a risk does not present immediate or preventive actions at a certain moment does not mean that it will not present them at another moment. 
 
     
-## Risks
+## Risk Suggestion List
 
 ## Misunderstood project requirements
 
@@ -207,6 +207,10 @@ This risk occurs when the customer does not cooperate with the development of th
 
 ## Lack of motivation of the development team
 
+This risk occurs when one or more members of the development team lack motivation during the development of the project.
+
+The demotivation can be for a specific project or over the course of other projects as well.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
@@ -219,6 +223,12 @@ This risk occurs when the amount of people in the development team is sufficient
 
 ## Relocation of developers' team members
 
+This risk occurs when a member of a development team is transferred to another, no longer continuing the activities he or she performed in the development of the project. 
+
+This risk is aggravated when more than one member of the same team leaves for the same reason at the same time during the project's development phase.
+
+This risk can impact the work of other teams as well.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
@@ -228,6 +238,12 @@ This risk occurs when the amount of people in the development team is sufficient
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Team member sick leave
+
+This risk occurs when a member of the development team falls ill and is unable to participate in the project until his or her recovery.
+
+This risk is aggravated when more than one team member is absent for the same reason at the same time. 
+
+This risk can impact the work of other teams.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
