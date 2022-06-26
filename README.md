@@ -72,7 +72,7 @@ Operate in a preventive way, acting actively to reduce risks that are present in
 
 - **Risk assessment**
 
-    // TODO: defines ways of communication and consultation
+  Risk assessment is the process of identifying potential hazards and analyzing what might happen if they occur.
     
 - **Risk treatment**
   
@@ -90,7 +90,8 @@ Operate in a preventive way, acting actively to reduce risks that are present in
     
 - Monitoring and critical analysis
 
-    // TODO: ...
+    The revision of the risk treatment plan is fundamental because even if a risk does not present immediate or preventive actions at a certain moment does not mean that it will not present them at another moment. 
+
     
 ## Risks
 
