@@ -56,11 +56,11 @@ Operate in a preventive way, acting actively to reduce risks that are present in
   
    - **Probability:**
   
-      - **VERY LOW**:   Unlikely. The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
-      - **LOW**:        Rare. The event may occur unexpectedly or casually, as the circumstances indicate little of this possibility.
-      - **MEDIUM**:     Possible. Event could occur in some way because circumstances moderately indicate this possibility.
-      - **HIGH**:       Probable. The event can occur in an even expected way because circumstances strongly indicate this possibility.
-      - **VERY HIGH**:  Almost certain. The event will certainly occur because the circumstances clearly indicate this possibility.
+      - **VERY LOW**: UNLIKELY - The event may even occur in exceptional situations, but the circumstances do not indicate this possibility.
+      - **LOW**: RARE - The event may occur unexpectedly or casually, as the circumstances indicate little of this possibility.
+      - **MEDIUM**: POSSIBLE - Event could occur in some way because circumstances moderately indicate this possibility.
+      - **HIGH**: PROBABLE - The event can occur in an even expected way because circumstances strongly indicate this possibility.
+      - **VERY HIGH**: ALMOST CERTAIN - The event will certainly occur because the circumstances clearly indicate this possibility.
 
   - **Impact:**
   
