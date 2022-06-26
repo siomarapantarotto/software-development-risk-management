@@ -102,29 +102,54 @@ This risk occurs when the product owner presents the product/service requirement
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## Loss of data or the requirements document
+## Loss of the requirements document
 
-This risk occurs when the project requirements document is lost or doesn't cover the necessary data for the project's development.
+This risk occurs when the project requirements document is lost.
+
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+
+## Poorly crafted requirements document
+
+This risk occurs when the project requirements document doesn't cover the necessary data for the project's development.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Wrong development of requirements
 
+This risk occurs when the requirement development is done in disagreement with what the customer defined in the requirements document. 
+
+It also occurs when there has been no formal development of the requirements document and the development team misinterprets what the customer wants.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Change of requirements
+
+This risk occurs when the team develops a requirement that changes its understanding throughout its development.
+
+It also occurs when the requirement is no longer necessary after its completion.
+
+The requirement change can be necessary (e.g. legal imposition) or due to lack of good definition in the initial design phase of the project.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Growth of unforeseen requirements
 
+This risk occurs when requirements that were not foreseen during the beginning of the project appear during its development.
+
+The emergence of an unforeseen requirement may occur in an imposed way (e.g. legal imposition) or by failure of the development team in the initial phase of project conception. 
+
+When the appearance of an unforeseen requirement is due to an imposition of any kind, there is no need to talk about corrective or preventive actions, but only about the implementation of the requirement.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## Unforeseen requirements performed by the development team
+## Implementation of unnecessary requirements by the development team, not defined by the product owner
+
+This risk occurs when unnecessary functionalities are added to the project that were not requested by the product owner.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
