@@ -156,15 +156,30 @@ This risk occurs when unnecessary functionalities are added to the project that 
 
 ## Schedule out of reality
 
+This risk occurs when the development of the project exceeds or is not in accordance with the planned schedule.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Introduction of new technologies
 
+This risk occurs when one or more technologies are adopted during the development of the project.
+
+It also occurs when the project starts with technologies not defined as standard by the company.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Lack of effective methodology for the management of the projects
+
+This risk occurs when there is no effective methodology defined for managing the project development.
+
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+
+## Misapplication of the methodology or methodologies adopted for the project management and development
+
+This risk occurs when the methodology used is poorly applied.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
