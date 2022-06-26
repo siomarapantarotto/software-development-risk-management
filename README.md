@@ -184,17 +184,23 @@ This risk occurs when the methodology used is poorly applied.
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## Inadequate tools for the development
+## Inadequate or unnecessary tools for the development
+
+This risk occurs when the development team uses inappropriate or unnecessary tools in the development of the project.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Customer dissatisfaction with the product developed or being developed 
 
+This risk occurs when the customer is not satisfied with the project that has been developed or is under development.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
-## Lack of cooperation/commitment of the client
+## Lack of cooperation or commitment of the client
+
+This risk occurs when the customer does not cooperate with the development of the project, for example, not doing the necessary tests to evaluate the requested and already developed requirements.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
@@ -205,6 +211,8 @@ This risk occurs when the methodology used is poorly applied.
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
 
 ## Insufficient personnel
+
+This risk occurs when the amount of people in the development team is sufficient for the project development.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
