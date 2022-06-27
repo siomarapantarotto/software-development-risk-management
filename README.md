@@ -53,6 +53,17 @@ Operate in a preventive way, acting actively to reduce risks that are present in
     // TODO: describe risks
     
 - **Risk analysis**
+
+  - **Risk response strategies:**
+
+      - **Avoid**: eliminate the threat to protect the project from the impact of the risk.
+      Example: cancelling the project.
+      - **Transfer**: shifts the impact of the threat to as third party, together with ownership of the response.
+      Example: contract insurance.
+      - **Mitigate**: act to reduce the probability of occurrence or the impact of the risk. 
+      Example: choose a different supplier.
+      - **Accept**: acknowledge the risk, but do not take any action unless the risk occurs.
+      Example: document the risk and put aside funds in case the risk occurs.
   
    - **Probability:**
   
