@@ -112,6 +112,8 @@ This risk occurs when the product owner presents the product/service requirement
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Loss of the requirements document
 
@@ -119,6 +121,8 @@ This risk occurs when the project requirements document is lost.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Poorly crafted requirements document
 
@@ -126,6 +130,8 @@ This risk occurs when the project requirements document doesn't cover the necess
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Wrong development of requirements
 
@@ -135,6 +141,8 @@ It also occurs when there has been no formal development of the requirements doc
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Change of requirements
 
@@ -146,6 +154,8 @@ The requirement change can be necessary (e.g. legal imposition) or due to lack o
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Growth of unforeseen requirements
 
@@ -157,6 +167,8 @@ When the appearance of an unforeseen requirement is due to an imposition of any 
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Implementation of unnecessary requirements by the development team, not defined by the product owner
 
@@ -164,6 +176,8 @@ This risk occurs when unnecessary functionalities are added to the project that 
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Schedule out of reality
 
@@ -171,6 +185,8 @@ This risk occurs when the development of the project exceeds or is not in accord
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Introduction of new technologies
 
@@ -180,6 +196,8 @@ It also occurs when the project starts with technologies not defined as standard
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Lack of effective methodology for the management of the projects
 
@@ -187,6 +205,8 @@ This risk occurs when there is no effective methodology defined for managing the
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Misapplication of the methodology or methodologies adopted for the project management and development
 
@@ -194,6 +214,8 @@ This risk occurs when the methodology used is poorly applied.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Inadequate or unnecessary tools for the development
 
@@ -201,6 +223,8 @@ This risk occurs when the development team uses inappropriate or unnecessary too
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Customer dissatisfaction with the product developed or being developed 
 
@@ -208,6 +232,8 @@ This risk occurs when the customer is not satisfied with the project that has be
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Lack of cooperation or commitment of the client
 
@@ -215,6 +241,8 @@ This risk occurs when the customer does not cooperate with the development of th
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Lack of motivation of the development team
 
@@ -224,6 +252,8 @@ The demotivation can be for a specific project or over the course of other proje
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Insufficient personnel
 
@@ -231,6 +261,8 @@ This risk occurs when the amount of people in the development team is sufficient
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Relocation of developers' team members
 
@@ -242,11 +274,15 @@ This risk can impact the work of other teams as well.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Lack of definition of team members' roles
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Team member sick leave
 
@@ -258,51 +294,71 @@ This risk can impact the work of other teams.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Lack of project management skills
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Adversity among members of the development team
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Underestimated cost
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Project components developed externally
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Lack/breakdown of equipment/resources
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Change of project development environment
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Lack of testing during project development
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Development with low quality
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Software version control/conflicts
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## etc //TODO: Enumerate other risks
 
@@ -310,6 +366,8 @@ This risk can impact the work of other teams.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
 
 ## Thanks! You are welcome to contribute
 
