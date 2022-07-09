@@ -56,7 +56,7 @@ Step 5: Monitor and review the risk
 
 - **Establishing the context** 
 
-    // TODO: define contexts
+    "By establishing the context, the firm articulates its objectives and defines the external and internal parameters to be taken into account when managing risk, and sets the scope and risk criteria for the remaining process." (AS/NZS ISO 31000:2009)
     
 - **Risk identification**
 
