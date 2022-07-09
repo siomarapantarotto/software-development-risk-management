@@ -40,6 +40,16 @@ Operate in a preventive way, acting actively to reduce risks that are present in
 
 ## Risk Management Process
 
+The risk management process is a blueprint for the actions that need to be done. And there are five basic steps that are taken to manage the risk. These steps are commonly referred to as the risk management process. It begins with risk identification, advances to risk analysis, then the risk is prioritized, a solution is implemented, and finally, the risk is monitored.
+
+So, these are the five essential steps of a risk management process:
+
+Step 1: Identify the risk
+Step 2: Analyze the risk
+Step 3: Assess or classify the risk
+Step 4: Treat the risk
+Step 5: Monitor and review the risk
+
 - **Communication and consultation**
 
     // TODO: define ways of communication and consultation
