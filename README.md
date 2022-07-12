@@ -60,7 +60,9 @@ Step 5: Monitor and review the risk
     
 - **Risk identification**
 
-    // TODO: describe risks
+    The identification of risks is a crucial step in effective risk management and needs to be comprehensive. If a potential risk is not identified at this stage, it will obviously be ignored in later analyses, implying possible disastrous consequences should it occur.
+    
+    All possible risks must be identified, even if they have never occurred.
     
 - **Risk analysis**
 
