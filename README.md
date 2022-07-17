@@ -127,14 +127,16 @@ This risk occurs when the product owner presents the product/service requirement
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
 
-## Loss of the requirements document
+## Loss or non-existence of the requirements document
 
-This risk occurs when the project requirements document is lost.
+This risk occurs when the project requirements document is lost or has not been created by the development team.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
-  - **Immediate Actions**: TODO
-  - **Preventive Actions**: TODO
+  - **Immediate Actions**: Check if there is any backup in case it has been lost.
+
+  Start documenting the requirements that have already been implemented as well as the ones that have not yet been implemented.
+  - **Preventive Actions**: Define and adopt rules to secure the document against loss and prevent project development from starting without this document having been minimally prepared. 
 
 ## Poorly crafted requirements document
 
