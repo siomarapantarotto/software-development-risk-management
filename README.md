@@ -334,6 +334,8 @@ This risk can impact the work of other teams.
 
 ## Project components developed externally
 
+This risk occurs when the software or part of it is developed by third parties without the proper follow-up regarding the expected quality (Example: freelancers, software factory etc).
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
@@ -367,6 +369,8 @@ This risk occurs when the environment destined for the team responsible for soft
 
 ## Lack of testing during project development
 
+This risk occurs when the software under development is not tested properly.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
@@ -380,6 +384,8 @@ This risk occurs when the environment destined for the team responsible for soft
   - **Preventive Actions**: TODO
 
 ## Software version control/conflicts
+
+This risk occurs when there is no efficient version control of the software developed.
 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
