@@ -261,6 +261,8 @@ This risk occurs when the development team uses inappropriate or unnecessary too
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Customer dissatisfaction with the product developed or being developed 
 
@@ -270,6 +272,8 @@ This risk occurs when the customer is not satisfied with the project that has be
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Lack of cooperation or commitment of the client
 
@@ -279,6 +283,8 @@ This risk occurs when the customer does not cooperate with the development of th
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Lack of motivation of the development team
 
@@ -290,6 +296,8 @@ The demotivation can be for a specific project or over the course of other proje
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Insufficient personnel
 
@@ -299,6 +307,8 @@ This risk occurs when the amount of people in the development team is sufficient
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Relocation of developers' team members
 
@@ -312,6 +322,8 @@ This risk can impact the work of other teams as well.
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Lack of definition of team members' roles
 
@@ -319,6 +331,8 @@ This risk can impact the work of other teams as well.
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Team member sick leave
 
@@ -332,6 +346,8 @@ This risk can impact the work of other teams.
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Lack of project management skills
 
@@ -341,6 +357,8 @@ This risk occurs when the person assigned to manage the team that is developing 
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Adversity among members of the development team
 
@@ -350,6 +368,8 @@ This risk occurs when there are conflicts among the members of the software deve
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Underestimated cost
 
@@ -357,6 +377,8 @@ This risk occurs when there are conflicts among the members of the software deve
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Project components developed externally
 
@@ -366,6 +388,8 @@ This risk occurs when the software or part of it is developed by third parties w
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Lack/breakdown of equipment/resources
 
@@ -373,6 +397,8 @@ This risk occurs when the software or part of it is developed by third parties w
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Change of project development environment
 
@@ -382,6 +408,8 @@ This risk occurs when there is a change of address of the company or simply of t
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Inadequate environment for software development
 
@@ -391,6 +419,8 @@ This risk occurs when the environment destined for the team responsible for soft
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 
 ## Lack of testing during project development
@@ -401,6 +431,8 @@ This risk occurs when the software under development is not tested properly.
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Development with low quality
 
@@ -408,6 +440,8 @@ This risk occurs when the software under development is not tested properly.
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Software version control/conflicts
 
@@ -417,6 +451,8 @@ This risk occurs when there is no efficient version control of the software deve
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## etc //TODO: Enumerate other risks
 
@@ -426,6 +462,8 @@ This risk occurs when there is no efficient version control of the software deve
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Thanks! You are welcome to contribute
 
