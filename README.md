@@ -320,6 +320,8 @@ This risk can impact the work of other teams.
 
 ## Adversity among members of the development team
 
+This risk occurs when there are conflicts among the members of the software development team, which can occur between technicians, between technicians and their managers, and even between managers of different teams.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
