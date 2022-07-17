@@ -126,6 +126,8 @@ This risk occurs when the product owner presents the product/service requirement
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Loss or non-existence of the requirements document
 
@@ -134,6 +136,8 @@ This risk occurs when the project requirements document is lost or has not been 
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: Check if there is any backup in case it has been lost.
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
   Start documenting the requirements that have already been implemented as well as the ones that have not yet been implemented.
   - **Preventive Actions**: Define and adopt rules to secure the document against loss and prevent project development from starting without this document having been minimally prepared. 
@@ -146,6 +150,8 @@ This risk occurs when the project requirements document doesn't cover the necess
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Wrong development of requirements
 
@@ -157,6 +163,8 @@ It also occurs when there has been no formal development of the requirements doc
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Change of requirements
 
@@ -170,6 +178,8 @@ The requirement change can be necessary (e.g. legal imposition) or due to lack o
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Growth of unforeseen requirements
 
@@ -183,6 +193,8 @@ When the appearance of an unforeseen requirement is due to an imposition of any 
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Implementation of unnecessary requirements by the development team, not defined by the product owner
 
@@ -192,6 +204,8 @@ This risk occurs when unnecessary functionalities are added to the project that 
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Schedule out of reality
 
@@ -201,6 +215,8 @@ This risk occurs when the development of the project exceeds or is not in accord
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Introduction of new technologies
 
@@ -212,6 +228,8 @@ It also occurs when the project starts with technologies not defined as standard
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Lack of effective methodology for the management of the projects
 
@@ -221,6 +239,8 @@ This risk occurs when there is no effective methodology defined for managing the
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Misapplication of the methodology or methodologies adopted for the project management and development
 
@@ -230,6 +250,8 @@ This risk occurs when the methodology used is poorly applied.
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+  - **Causes**: TODO
+  - **Consequences**: TODO
 
 ## Inadequate or unnecessary tools for the development
 
