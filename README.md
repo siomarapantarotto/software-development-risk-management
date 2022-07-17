@@ -348,10 +348,22 @@ This risk can impact the work of other teams.
 
 ## Change of project development environment
 
+This risk occurs when there is a change of address of the company or simply of the department with the infrastructure and team responsible for the software development. (Example: Termination of the lease contract without the possibility of renewal).
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
   - **Preventive Actions**: TODO
+
+## Inadequate environment for software development
+
+This risk occurs when the environment destined for the team responsible for software development presents inadequate conditions, for various reasons, that affect the expected production (Example: noise, furniture, facilities, temperature, etc).
+
+  - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
+  - **Immediate Actions**: TODO
+  - **Preventive Actions**: TODO
+
 
 ## Lack of testing during project development
 
