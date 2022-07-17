@@ -313,6 +313,8 @@ This risk can impact the work of other teams.
 
 ## Lack of project management skills
 
+This risk occurs when the person assigned to manage the team that is developing the software does not have adequate management skills.
+
   - **Probability**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Impact**: VERY LOW / LOW / MEDIUM / HIGH / VERY HIGH
   - **Immediate Actions**: TODO
